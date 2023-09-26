@@ -99,6 +99,7 @@ function App() {
         }
       </div>
       <ToastContainer position="bottom-center" />
+         <p style={{position:"fixed", bottom:"10px",left:"10px"}}>&copy; 2023 Nitish Kumar Jha. All rights reserved.</p>
     </>
   );
 }
